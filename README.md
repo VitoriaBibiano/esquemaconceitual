@@ -34,6 +34,6 @@ O sistema proposto é voltado para controle e gestão da execução de ordens de
 4. **Execução dos Serviços:**
    - A mesma equipe que cria a OS também é responsável por avaliar e executar os serviços solicitados.
   
-   - ![Diagrama (modelagemconceitual.png)
+
 
 
